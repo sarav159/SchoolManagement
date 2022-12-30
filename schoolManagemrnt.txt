@@ -1,0 +1,27 @@
+Objects
+1.	Student
+Name
+Roll no
+Age
+Dob
+Address
+Email 
+
+2.	Class
+Class name
+
+3.	Subject
+
+          Language, English, Maths, Science, Social- records
+4.	Financial year
+Start Year
+End Year
+
+5.	Teacher
+Name
+Subjects taught
+
+Relationships:
+One student study many subjects (one to many)- lookup.
+One class have many students (one to many)- lookup.
+One Teacher will teach many classes and one class have many teachers (many to many)- junction.
