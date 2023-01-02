@@ -1,5 +1,5 @@
 Objects
-1.	Student
+1.Student
 Name
 Roll no
 Age
@@ -7,17 +7,18 @@ Dob
 Address
 Email 
 
-2.	Class
+2.Class
 Class name
 
-3.	Subject
+3.Subject
 
           Language, English, Maths, Science, Social- records
-4.	Financial year
+
+4. year
 Start Year
 End Year
 
-5.	Teacher
+5.Teacher
 Name
 Subjects taught
 
