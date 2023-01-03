@@ -9,6 +9,9 @@ public class ProsceptStudentTriggerHandler {
             approvalRequest.setObjectId(stud.Id);
             Approval.ProcessResult approvalResult = Approval.process(approvalRequest);
             System.debug('offer submitted for approval successfully: '+approvalResult .isSuccess());
+        }
     }
-}
+    public static void onAfterUpdate(List<Prospect_Student__c> newList){
+        
+    }
 }
